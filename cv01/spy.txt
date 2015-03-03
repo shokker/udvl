@@ -1,0 +1,61 @@
+c X je buď Rus alebo špión
+¬RS ∨ ¬GS
+GS ∨ RS
+¬RM ∨ ¬GM
+GM ∨ RM
+¬RE ∨ ¬GE
+GE ∨ RE
+
+c práve jeden je Rus, ostatní dvaja sú Nemci
+RS ∨ GS ∨ GS
+RS ∨ GS ∨ GM
+RS ∨ GS ∨ RE
+
+RS ∨ RM ∨ RM
+RS ∨ RM ∨ GM
+RS ∨ RM ∨ RE
+
+GE ∨ GE ∨ RM
+GE ∨ GE ∨ GM
+GE ∨ GE ∨ RE
+
+GM ∨ GS ∨ GS
+GM ∨ GS ∨ GM
+GM ∨ GS ∨ RE
+
+GM ∨ RM ∨ RM
+GM ∨ RM ∨ GM
+GM ∨ RM ∨ RE
+
+GM ∨ GE ∨ RM
+GM ∨ GE ∨ GM
+GM ∨ GE ∨ RE
+
+GE ∨ GS ∨ GS
+GE ∨ GS ∨ GM
+GE ∨ GS ∨ RE
+
+GE ∨ RM ∨ RM
+GE ∨ RM ∨ GM
+GE ∨ RM ∨ RE
+
+GE ∨ GE ∨ RM
+GE ∨ GE ∨ GM
+GE ∨ GE ∨ RE
+
+c  každý Rus musí byť špión
+¬RS ∨ SS
+¬RM ∨ SM
+¬RE ∨ SE
+
+c Stirlitz: "Müller, ty si taký Nemec, ako som ja Rus"
+¬GM ∨ RS
+¬RS ∨ GM
+c Eismann je rusky spion 
+RE ∨ SE 
+RE ∨ ¬SE 
+¬RE ∨ SE 
+
+
+
+
